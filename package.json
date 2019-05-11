@@ -3,9 +3,19 @@
   "version": "0.0.1",
   "description": "A simple brainfuck interpreter",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clemlak/brainfuck-interpreter.git"
+  },
   "scripts": {
     "test": "mocha"
   },
   "author": "clemlak",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2"
+  }
 }
