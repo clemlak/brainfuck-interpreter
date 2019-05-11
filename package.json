@@ -1,0 +1,11 @@
+{
+  "name": "brainfuck-interpreter",
+  "version": "0.0.1",
+  "description": "A simple brainfuck interpreter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "clemlak",
+  "license": "ISC"
+}
