@@ -12,7 +12,9 @@
   },
   "author": "clemlak",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "commander": "^2.20.0"
+  },
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
